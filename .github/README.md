@@ -6,6 +6,10 @@
 
 ## Changelog
 
+### Version 1.3.11
+
+*  **New** Português br add by Project Wolf devs
+
 ### Version 1.3.10
 
 *  Now uses fontawesome
@@ -82,13 +86,24 @@
 *   👀 **Open source :** you have an idea ? Just take the code and build something out of it !
 *   🌍 **Worldwide :** you can help translate in your language !
 
+
+## Instação (Brasil)
+
+1.  Baixe o mais recente [release](https://github.com/Notavone/discord-panel/releases)
+2.  Extraia com WinRAR, 7zip, WinZip...
+3.  Entre no [Discord Developer Portal](https://discord.com/developers/applications) e pegue seu token de bot
+4.  Abra a [index.html](../index.html) (Entre na pagina home usando o link do seu site)
+5.  Cole seu token, click <kbd>ok</kbd> ou <kbd>enter</kbd>
+6.  Voila !
+
+
 ## Installation
 
-1.  Download the latest [release](https://github.com/Notavone/discord-panel/releases)
+1.  Download the lates [release](https://github.com/Notavone/discord-panel/releases)
 2.  Extract it with WinRAR, 7zip, WinZip...
 3.  Go to the [Discord Developer Portal](https://discord.com/developers/applications) and grab your bot token
 4.  Open [index.html](../index.html)
-5.  Paste your token, click <kbd>ok</kbd> or hit <kbd>enter</kbd>
+5.  Paste your token, click  <kbd>ok</kbd> or hit <kbd>enter</kbd>
 6.  Voila !
 
 ## How to contribute
