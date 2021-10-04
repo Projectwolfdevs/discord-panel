@@ -1,69 +1,69 @@
 const locales = {
     "en": {
-        "cCode": "en",
-        "language": "English",
+        "cCode": "pt",
+        "language": "portugues",
         "text": {
             "channelNameLabel": "Chat",
-            "scrollCheck": "Enable auto-scrolling animation",
-            "fileSent": "sent some file(s)",
-            "attachmentTxt": "Attachments",
+            "scrollCheck": "Ativar animação de rolagem automática",
+            "fileSent": "enviou algum arquivo",
+            "attachmentTxt": "Anexos",
             "privateMessages": "DM",
-            "userId": "User ID"
+            "userId": "ID do user"
         },
         "buttons": {
-            "clearLastMessages": "Clear Last Messages",
-            "editToken": "Edit token",
-            "refreshChat": "Refresh chat",
-            "changeLanguage": "Change language",
-            "send": "Send",
-            "leave": "Leave the server",
-            "invite": "Invite"
+            "clearLastMessages": "Limpar últimas mensagens",
+            "editToken": "Editar token",
+            "refreshChat": "Atualizar chat",
+            "changeLanguage": "Mudar idioma",
+            "send": "Enviar",
+            "leave": "Sair do servidor",
+            "invite": "Entrar no servidor"
         },
         "infos": {
-            "owner": "Owner",
-            "members": "Members",
-            "vChannels": "Channels (voice)",
-            "tChannels": "Channels (text)",
-            "roles": "Roles",
-            "channels": "Channels",
+            "owner": "Dono",
+            "members": "Membros",
+            "vChannels": "Canal (voz)",
+            "tChannels": "Canais (texto)",
+            "roles": "Cargos/Funções",
+            "channels": "Canais",
             "emojis": "Emojis"
         },
         "headings": {
-            "lastMessages": "Last Messages",
-            "guildName": "Information",
+            "lastMessages": "Últimas mensagens",
+            "guildName": "Informação",
             "autoScroll": "Auto-Scroll",
         },
         "errors": {
             "error": "ERROR",
             "dm": "ERROR : DM",
-            "emptyMsg": "ERROR : EMPTY MESSAGE",
-            "missingPermissions": "ERROR : MISSING PERMISSIONS"
+            "emptyMsg": "ERROR : MENSAGEM VAZIA",
+            "missingPermissions": "ERROR : SEM PERMISSÃO PARA ISSO"
         },
         "token": {
-            "prompt": "Please enter your discord bot token",
-            "confirmation": "Are you sure ?",
-            "invalid": "No token provided or token is invalid"
+            "prompt": "Por favor cole o token do seu bot.(Não se procupe, seu token está 100% seguro conosco!)",
+            "confirmation": "Tem certeza?",
+            "invalid": "❌ Token invalido, inisira token valido. ❌"
         },
         "messageType": {
-            "serverJoin": "joined the server",
-            "pin": "pinned a message",
-            "channelNews": "added a remote channel news",
-            "boost": "boosted the server"
+            "serverJoin": "Entrou no servidor",
+            "pin": "Mensagem fixada",
+            "channelNews": "adicionou uma notícia no canal",
+            "boost": "Deu booster no server"
         },
         "fileType": {
-            "unknown": "unknown",
-            "img": "image",
-            "doc": "document",
+            "unknown": "desconhecido",
+            "img": "imagem",
+            "doc": "documento",
             "pdf": "pdf",
             "video": "video",
             "audio": "audio"
         },
         "formatting": {
-            "bold": "Bold",
-            "emphasis": "Emphasis",
-            "underline": "Underline",
-            "strike": "Strikethrough",
-            "clear": "Clear formatting"
+            "bold": "Audacioso",
+            "emphasis": "Ênfase",
+            "underline": "Sublinhado",
+            "strike": "Tachado",
+            "clear": "Limpar formatação"
         }
     },
     "uk": {
